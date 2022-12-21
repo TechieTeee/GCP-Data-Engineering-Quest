@@ -5,9 +5,9 @@
 
 ## Part 1: Creating a Data Transformation Pipeline with Cloud Data Prep
 Multi-Part Data Engineering Lab on Ecommerce CPG Data, ETL and Optimizing Data Quality w/ GCP SQL Recipes in Data Prep. Data explores customers engagement with web pages and how they convert to sales and other actions on the page.
- **Objectives Achieved:
-  **Connect BigQuery datasets to Cloud Dataprep.
-  **Explore dataset quality with Cloud Dataprep.
-  **Create a data transformation pipeline with Cloud Dataprep.
-  **Run transformation jobs outputs to BigQuer
+ * Objectives Achieved:
+  * Connect BigQuery datasets to Cloud Dataprep.
+  * Explore dataset quality with Cloud Dataprep.
+  * Create a data transformation pipeline with Cloud Dataprep.
+  * Run transformation jobs outputs to BigQuer
   
