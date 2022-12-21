@@ -1,0 +1,10 @@
+settype col: productSKU lockDataType: true type: String
+drop col: itemQuantity action: Drop
+drop col: itemRevenue action: Drop
+deduplicate
+filter type: custom rowType: single row: ISMISSING([totalTransactionRevenue]) action: Delete
+filter type: custom rowType: single row: type == 'PAGE' action: Keep
+merge col: visitId,fullVisitorId with: '-' as: 'unique_session_id'
+case condition: columnConditions col: eCommerceAction_type colCases: [0,'Unknown'], [1,'Click through of product lists'], [2,'Product detail views'], [3,'Add product(s) to cart'], [4,'Remove product(s) from cart'], [5,'Check out'], [6,'Completed purchase'], [7,'Refund of purchase'], [8,'Checkout options'] as: 'eCommerceAction_label'
+derive type: single value: DIVIDE(totalTransactionRevenue, 1000000) as: 'totalTransactionRevenue1'
+settype col: totalTransactionRevenue1 lockDataType: true type: Float
