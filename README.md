@@ -1,4 +1,7 @@
-## GCP-Data-Engineering-Quest
+![cpg-io-ecommerce-execution-CBTmEZqUaM0-unsplash](https://user-images.githubusercontent.com/100870737/208791887-5a476cdf-8138-4bc2-b6f1-0b1ed8156efa.jpg)
+
+
+## GCP Data Engineering Quest
 
 ## Part 1: Creating a Data Transformation Pipeline with Cloud Data Prep
-Multi-Part Data Engineering Lab on Ecommerce Data, ETL and Optimizing Data Quality w/ GCP SQL Recipes in Data Prep. Data explores customers engagement with web pages and hpw they convert to sales and other actions on the page.
+Multi-Part Data Engineering Lab on Ecommerce CPG Data, ETL and Optimizing Data Quality w/ GCP SQL Recipes in Data Prep. Data explores customers engagement with web pages and how they convert to sales and other actions on the page.
