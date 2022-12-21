@@ -1,4 +1,4 @@
-![cpg-io-ecommerce-execution-CBTmEZqUaM0-unsplash](https://user-images.githubusercontent.com/100870737/208791887-5a476cdf-8138-4bc2-b6f1-0b1ed8156efa.jpg)
+![image](https://user-images.githubusercontent.com/100870737/208819338-4d3d2388-7a09-4231-84f1-0ea1e2a54fe3.png)
 
 
 ## GCP Data Engineering Quest
