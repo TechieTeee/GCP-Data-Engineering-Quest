@@ -12,7 +12,7 @@ Multi-Part Data Engineering Lab on Ecommerce CPG Data, ETL and Optimizing Data Q
   * Ran transformation job outputs to BigQuery.
   
 ## Part 2: ETL Processing on Google Cloud Using Dataflow and BigQuery
-Built several Data Pipelines that ingested data from a publicly available dataset into BigQuery, using Google Cloud services, specifically Cloud Storage, Dataflow
+Built several Data Pipelines that ingested data from a publicly available dataset on historically, popular baby names in the U.S. into BigQuery, using Google Cloud services, specifically Cloud Storage, Dataflow
 and BigQuery.
  ## Part 2 Objectives Achieved
 
