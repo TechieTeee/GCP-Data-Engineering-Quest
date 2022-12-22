@@ -21,6 +21,6 @@ and BigQuery.
  ## Part 2 Objectives Achieved
 
 
-## Part 3:
+## Part 3: Cloud Composer: Copying BigQuery Tables Across Different Locations
 
 
