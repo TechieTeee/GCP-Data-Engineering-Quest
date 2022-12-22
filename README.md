@@ -11,7 +11,7 @@ Multi-Part Data Engineering Lab on Ecommerce CPG Data, ETL and Optimizing Data Q
   * Created a data transformation pipeline with Cloud Dataprep.
   * Ran transformation job outputs to BigQuery.
   
-## Part 2: 
+## Part 2: ETL Processing on Google Cloud Using Dataflow and BigQuery
 
 
 ## Part 3:
