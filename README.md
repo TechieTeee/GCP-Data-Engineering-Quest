@@ -9,7 +9,7 @@ Multi-Part Data Engineering Lab on Ecommerce CPG Data, ETL and Optimizing Data Q
   * Connected BigQuery datasets to Cloud Dataprep.
   * Explored dataset quality with Cloud Dataprep.
   * Created a data transformation pipeline with Cloud Dataprep.
-  * Ran transformation jobs outputs to BigQuery.
+  * Ran transformation job outputs to BigQuery.
   
 ## Part 2: 
 
